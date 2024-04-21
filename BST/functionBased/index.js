@@ -35,6 +35,12 @@ insert(node, 1);
 insert(node, 4);
 insert(node, 7);
 insert(node, 9);
+// Example BST
+//       5
+//     /   \
+//    3     8
+//   / \   / \
+//  1   4 7   9
 inOrder(node);
 
 
